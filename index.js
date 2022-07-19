@@ -79,4 +79,4 @@ async function autoScroll(page){
     });
 }
 
-exports.scarpFromCoinMarketCap = getDataFromCoinMarketCap
+module.exports.getData = getDataFromCoinMarketCap
